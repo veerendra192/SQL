@@ -1,0 +1,1 @@
+select count(venue_id) from football_venue;
